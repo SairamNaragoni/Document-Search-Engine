@@ -1,0 +1,22 @@
+		.demo-card-wide.mdl-card {
+			margin-left: 20%;
+			padding: 20px;
+			padding-bottom: 0px;
+		  	width: 60%;
+		  	min-height: 100px;
+		  	border: none;
+		}
+		.demo-card-wide > .mdl-card__title {
+		  padding: 0px;
+		  margin: 0px;
+		}
+		.demo-card-wide > .mdl-card__menu {
+		  color: #fff;
+		}
+		.demo-card-wide > .mdl-card__supporting-text {
+		  padding: 0px;
+		  padding-top: 14px;
+		}
+		a {
+		    text-decoration: none !important;
+		}

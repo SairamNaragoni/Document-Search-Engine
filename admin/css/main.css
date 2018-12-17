@@ -1,0 +1,28 @@
+.demo-card-wide.mdl-card {
+			padding-left: 20%;
+			padding-right: 20%;
+		  	width: 100%;
+		}
+		.demo-card-wide > .mdl-card__title {
+		  height: 60px;
+		}
+		.demo-card-wide > .mdl-card__menu {
+		  color: #fff;
+		}
+		#adminTable{
+			table-layout: fixed; 
+			width: 100%;	
+    		word-wrap:break-word;
+		}
+		table
+		{
+    	table-layout: fixed;
+    	width: 270%;
+    	word-wrap:break-word;
+		}
+		td{
+			overflow: hidden;
+		}
+		a {
+		    text-decoration: none !important;
+		}
